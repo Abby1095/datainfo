@@ -1,0 +1,10 @@
+INSERT INTO Problem1 VALUES(‘a’,’false’, ‘Als je de capaciteit weet, weet je niet wat de voertuig is’);
+INSERT INTO Problem1 VALUES(‘b’, ‘true’, ‘Als je de voertuig weet, weet  je de capaciteit ’);
+INSERT INTO Problem1 VALUES(‘c’, ‘true’, ‘Als je de factuur weet, weet je de pakje ’);
+INSERT INTO Problem1 VALUES(‘d’, ‘true’, ‘Een pakje wordt hooguit een factuur vermeld, betekent dat als je het pakje weet dan ken je de factuur en adres ’);
+INSERT INTO Problem1 VALUES(‘e’, ‘true’, ‘Doordat een pakje de primary key is, weet je de rest van de gegevens ’);
+INSERT INTO Problem1 VALUES(‘f’, ‘false’, ‘Tussen voertuig en bezorger is er geen relatie een voetuig kan meerdere bezorgers hebben’);
+INSERT INTO Problem1 VALUES(‘g’, ‘false’, ‘Een bezorger kan in verschillende voertuig een pakje bezorgen’);
+INSERT INTO Problem1 VALUES(‘h’, ‘true’, ‘...’);
+INSERT INTO Problem1 VALUES(‘i’, ‘true’, ‘...’);
+INSERT INTO Problem1 VALUES(‘j’, ‘false’, ‘...’);
